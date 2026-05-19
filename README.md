@@ -701,17 +701,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# Example Commands Summary
-
-## Backend
-
-```bash
-cd backend
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python app.py
-```
+# Commands Summary
 
 ## Frontend
 
